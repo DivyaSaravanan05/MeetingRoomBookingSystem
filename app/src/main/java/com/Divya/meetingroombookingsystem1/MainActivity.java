@@ -1,4 +1,4 @@
-package com.sakthi.meetingroombookingsystem;
+package com.Divya.meetingroombookingsystem1;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,6 +13,8 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.Divya.meetingroombookingsystem.R;
 
 public class MainActivity extends AppCompatActivity {
 

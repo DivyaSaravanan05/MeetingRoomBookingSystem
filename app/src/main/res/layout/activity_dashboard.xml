@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Dashboard">
+    tools:context="com.Divya.meetingroombookingsystem1.Dashboard">
 
     <LinearLayout
         android:id="@+id/layout1"
@@ -19,7 +19,7 @@
             android:id="@+id/iv"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/logologin" />
+            android:src="@drawable/meeting_room" />
         <TextView
             android:layout_marginLeft="10dp"
             android:layout_width="wrap_content"

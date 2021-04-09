@@ -1,4 +1,4 @@
-package com.sakthi.meetingroombookingsystem;
+package com.Divya.meetingroombookingsystem1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import com.Divya.meetingroombookingsystem.R;
 
 public class Dashboard extends AppCompatActivity {
 

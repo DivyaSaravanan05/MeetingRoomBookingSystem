@@ -1,4 +1,4 @@
-package com.sakthi.meetingroombookingsystem;
+package com.Divya.meetingroombookingsystem;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sakthi.meetingroombookingsystem">
+    package="com.Divya.meetingroombookingsystem">
 
     <application
         android:allowBackup="true"
@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MeetingRoomBookingSystem">
-        <activity android:name=".AddViewRoom"></activity>
-        <activity android:name=".SearchRoom" />
-        <activity android:name=".RoomList" />
-        <activity android:name=".AddRoom" />
-        <activity android:name=".Dashboard" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.Divya.meetingroombookingsystem1.AddViewRoom"></activity>
+        <activity android:name="com.Divya.meetingroombookingsystem1.SearchRoom" />
+        <activity android:name="com.Divya.meetingroombookingsystem1.RoomList" />
+        <activity android:name="com.Divya.meetingroombookingsystem1.AddRoom" />
+        <activity android:name="com.Divya.meetingroombookingsystem1.Dashboard" />
+        <activity android:name="com.Divya.meetingroombookingsystem1.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

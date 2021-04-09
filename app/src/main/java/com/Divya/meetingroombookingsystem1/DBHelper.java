@@ -1,16 +1,14 @@
-package com.sakthi.meetingroombookingsystem;
+package com.Divya.meetingroombookingsystem1;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Hashtable;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.DatabaseUtils;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
 
 class Room {
     int room_id;
